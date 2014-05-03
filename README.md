@@ -1,17 +1,17 @@
 Yahoo Messenger
 ===============
 
-Yahoo Messenger module for Opencart.
+Modul Yahoo Messenger untuk Opencart.
 
 Requirements
 ------------
 
-* Opencart v1.5.5.* ([link] (https://github.com/opencart/opencart))
+* Opencart v1.5.5.* - 1.5.6.4 ([link] (http://www.opencart.com/index.php?route=download/download))
 
 Installation
 ------------
 
-1. Extract the downloaded zip file.
-2. Upload `admin` and `catalog` folders into your Opencart root directory (mostly from `/public_html/` folder)
-3. Grant a permission to `module/ym` (check this link: http://forum.opencart.com/viewtopic.php?f=144&t=30720)
-4. Install YM from Extension > Module, edit the setting as you wish
+1. Ekstrak file zip yang telah di-download
+2. Upload folder` admin` dan `catalog` ke dalam direktori Opencart (biasanya `/public_html/`)
+3. Beri permisi untuk `module/ym` (lihat tautan berikut: http://forum.opencart.com/viewtopic.php?f=144&t=30720)
+4. Install YM dari Extension > Module, ubah setting sesuai keinginan
